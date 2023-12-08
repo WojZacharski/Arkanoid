@@ -1,0 +1,80 @@
+﻿  Ball.cpp
+  Block.cpp
+  gra1 (1).cpp
+C:\Users\Gamer\Desktop\STUDIA INF\PROJEKT\Project\gra1 (1).cpp(73,26): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gamer\Desktop\STUDIA INF\PROJEKT\Project\gra1 (1).cpp(183,11): warning C4101: "event": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Gamer\Desktop\STUDIA INF\PROJEKT\Project\gra1 (1).cpp(300,51): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Gamer\Desktop\STUDIA INF\PROJEKT\Project\gra1 (1).cpp(300,31): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Gamer\Desktop\STUDIA INF\PROJEKT\Project\gra1 (1).cpp(369,43): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gamer\Desktop\STUDIA INF\PROJEKT\Project\gra1 (1).cpp(371,47): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gamer\Desktop\STUDIA INF\PROJEKT\Project\gra1 (1).cpp(456,71): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Gamer\Desktop\STUDIA INF\PROJEKT\Project\gra1 (1).cpp(456,51): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(681,68): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(708): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void std::_Default_allocator_traits<_Alloc>::construct<_Ty,unsigned int,unsigned int,unsigned int&,unsigned int&>(_Alloc &,_Objty *const ,unsigned int &&,unsigned int &&,unsigned int &,unsigned int &)” funkcji szablon
+          with
+          [
+              _Alloc=std::allocator<Block>,
+              _Ty=Block,
+              _Objty=Block
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(713): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void std::_Default_allocator_traits<_Alloc>::construct<_Ty,unsigned int,unsigned int,unsigned int&,unsigned int&>(_Alloc &,_Objty *const ,unsigned int &&,unsigned int &&,unsigned int &,unsigned int &)” funkcji szablon
+          with
+          [
+              _Alloc=std::allocator<Block>,
+              _Ty=Block,
+              _Objty=Block
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(726): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void std::vector<Block,std::allocator<Block>>::_Emplace_back_with_unused_capacity<_Ty,_Ty,unsigned int&,unsigned int&>(_Ty &&,_Ty &&,unsigned int &,unsigned int &)” funkcji szablon
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\Gamer\Desktop\STUDIA INF\PROJEKT\Project\gra1 (1).cpp(373): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void std::vector<Block,std::allocator<Block>>::emplace_back<unsigned int,unsigned int,unsigned int&,unsigned int&>(unsigned int &&,unsigned int &&,unsigned int &,unsigned int &)” funkcji szablon
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(681,68): warning C4244: "argument": konwersja z "_Ty" do "float", możliwa utrata danych
+          with
+          [
+              _Ty=unsigned int
+          ]
+  Menu.cpp
+C:\Users\Gamer\Desktop\STUDIA INF\PROJEKT\Project\Menu.cpp(15,41): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Gamer\Desktop\STUDIA INF\PROJEKT\Project\Menu.cpp(20,41): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Gamer\Desktop\STUDIA INF\PROJEKT\Project\Menu.cpp(25,41): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Paddle.cpp
+  ScoreBoard.cpp
+C:\Users\Gamer\Desktop\STUDIA INF\PROJEKT\Project\ScoreBoard.cpp(28,42): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Generowanie kodu...
+C:\Users\Gamer\Desktop\STUDIA INF\PROJEKT\Project\gra1 (1).cpp(67): warning C4715: "collisionTest”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Gamer\Desktop\STUDIA INF\PROJEKT\Project\gra1 (1).cpp(41): warning C4715: "collisionTest”: niewszystkie ścieżki kodu zwracają wartość
+  Project.vcxproj -> C:\Users\Gamer\Desktop\STUDIA INF\PROJEKT\Project\Debug\Project.exe
